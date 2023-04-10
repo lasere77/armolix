@@ -112,6 +112,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
+neovim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -121,3 +122,15 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+xorg-xinit
+xorg-xrdb
+dex
+dmenu
+picom
+nitrogen
+lightdm
+lightdm-gtk-greeter
+lxappearance
+arc-gtk-theme
+arc-icon-theme
+awesome

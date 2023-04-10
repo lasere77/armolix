@@ -1,3 +1,9 @@
 /out
 /work
 key.pub
+/-o
+base.make_pacman_conf
+base.make_custom_airootfs
+build_date
+iso.pacman_conf
+
